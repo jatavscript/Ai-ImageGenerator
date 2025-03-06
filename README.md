@@ -1,4 +1,4 @@
-Project Title: AI Image Generator
+**Project Title**: AI Image Generator
 Description:
 The AI Image Generator is a web-based tool that allows users to convert text descriptions into stunning images instantly. Built with HTML, CSS, and JavaScript, this project leverages AI-powered APIs to generate high-quality visuals based on user input. Key features include a user-friendly interface, customizable image quantity, and a responsive design for seamless use across devices. Perfect for developers, designers, and AI enthusiasts, this tool showcases the power of AI in creative applications.
 
