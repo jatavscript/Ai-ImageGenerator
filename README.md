@@ -19,5 +19,5 @@ Downloadable generated images.
 
 **Backend**: AI-powered API (e.g., OpenAI DALL·E, Stable Diffusion, or similar)
 
-**Live Demo**: [Insert Live Demo Link Here]
+**Live Demo**: [http://127.0.0.1:5501/?#]
 **GitHub Repository**: [Insert GitHub Repo Link Here]
