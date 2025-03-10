@@ -15,10 +15,10 @@ The **AI Image Generator** is a powerful web-based tool that transforms text des
 - **Backend:** AI-powered APIs (e.g., OpenAI DALL·E, Stable Diffusion, or similar)
 
 ## 🌐 Live Demo
-🔗 [Click here to access the live demo](http://127.0.0.1:5501/?#)
+🔗 [Click here to access the live demo](https://jatavscript.github.io/Ai-ImageGenerator/)
 
 ## 📂 Repository
-🔗 [GitHub Repository](https://github.com/jatavscript/Ai-ImageGenerator/tree/main)
+🔗 [GitHub Repository](https://github.com/jatavscript/Ai-ImageGenerator.git)
 
 ## 📌 How to Use
 1. Enter a descriptive text prompt in the input field.
