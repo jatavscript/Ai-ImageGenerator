@@ -1,24 +1,39 @@
-**Project Title**: AI Image Generator
+# AI Image Generator
 
-**Description**:
-The AI Image Generator is a web-based tool that allows users to convert text descriptions into stunning images instantly. Built with HTML, CSS, and JavaScript, this project leverages AI-powered APIs to generate high-quality visuals based on user input. Key features include a user-friendly interface, customizable image quantity, and a responsive design for seamless use across devices. Perfect for developers, designers, and AI enthusiasts, this tool showcases the power of AI in creative applications.
+## 🚀 Project Overview
+The **AI Image Generator** is a powerful web-based tool that transforms text descriptions into stunning AI-generated images. This project utilizes cutting-edge AI models to produce high-quality visuals based on user input, making it an ideal solution for designers, developers, and AI enthusiasts.
 
-**Features**:
+## ✨ Features
+- 🔹 **AI-Powered Text-to-Image Generation** – Converts text prompts into stunning visuals.
+- 🎨 **Customizable Image Output** – Users can generate 1 to 4 images per request.
+- 📱 **Responsive Design** – Fully optimized for various screen sizes.
+- 🖼️ **Downloadable Images** – Easily save generated images for later use.
+- ⚡ **Fast & Intuitive UI** – A seamless experience with a clean and interactive interface.
 
-Text-to-image conversion powered by AI.
+## 🛠️ Tech Stack
+- **Frontend:** HTML, CSS, JavaScript
+- **Backend:** AI-powered APIs (e.g., OpenAI DALL·E, Stable Diffusion, or similar)
 
-Customizable image quantity (1 to 4 images).
+## 🌐 Live Demo
+🔗 [Click here to access the live demo](http://127.0.0.1:5501/?#)
 
-Responsive and intuitive user interface.
+## 📂 Repository
+🔗 [GitHub Repository](https://github.com/jatavscript/Ai-ImageGenerator/tree/main)
 
-Downloadable generated images.
+## 📌 How to Use
+1. Enter a descriptive text prompt in the input field.
+2. Select the number of images you want to generate (1-4).
+3. Click the **Generate** button and wait for AI processing.
+4. Download your generated images and enjoy!
 
-**Tech Stack**:
+## ⚠️ Important Note
+This project may not work on your device because it requires a personal API key, which is not shareable. To run the project, add your own secret API key in the code.
 
-**Frontend**: HTML, CSS, JavaScript
+## 📩 Contributing
+Contributions are welcome! Feel free to fork the repository and submit a pull request to improve the project.
 
-**Backend**: AI-powered API (e.g., OpenAI DALL·E, Stable Diffusion, or similar)
+## 📜 License
+This project is open-source and available under the [MIT License](LICENSE).
 
-**Live Demo**: [Click Here](https://jatavscript.github.io/Ai-ImageGenerator/)
-
-**GitHub Repository**: [https://github.com/jatavscript/Ai-ImageGenerator.git]
+---
+🚀 **Unleash the power of AI creativity with the AI Image Generator!**
