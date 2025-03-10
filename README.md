@@ -1,4 +1,4 @@
-# AI Image Generator
+# Ajay's - AI Image Generator
 
 ## 🚀 Project Overview
 The **AI Image Generator** is a powerful web-based tool that transforms text descriptions into stunning AI-generated images. This project utilizes cutting-edge AI models to produce high-quality visuals based on user input, making it an ideal solution for designers, developers, and AI enthusiasts.
@@ -33,7 +33,7 @@ This project may not work on your device because it requires a personal API key,
 Contributions are welcome! Feel free to fork the repository and submit a pull request to improve the project.
 
 ## 📜 License
-This project is open-source and available under the [MIT License](LICENSE).
+This project is open-source and available under the MIT License.
 
 ---
 🚀 **Unleash the power of AI creativity with the AI Image Generator!**
