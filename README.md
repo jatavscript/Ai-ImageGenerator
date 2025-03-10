@@ -19,6 +19,6 @@ Downloadable generated images.
 
 **Backend**: AI-powered API (e.g., OpenAI DALL·E, Stable Diffusion, or similar)
 
-**Live Demo**: [http://127.0.0.1:5501/?#]
+**Live Demo**: [Click Here](https://jatavscript.github.io/Ai-ImageGenerator/)
 
-**GitHub Repository**: [https://github.com/jatavscript/Ai-ImageGenerator/tree/main]
+**GitHub Repository**: [https://github.com/jatavscript/Ai-ImageGenerator.git]
